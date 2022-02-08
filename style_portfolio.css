@@ -3,7 +3,7 @@ body {background-color: #73FFCE}
 p {font-size: 16px}
 #margin_to_banner {width:50%;}
 
-#buickSkylark {float:right; margin-left: 10px; margin-bottom: 20px;}
+#buickSkylark {float:right; margin-left: 10px; margin-bottom: 10px;}
 #chcEthan {float:left; margin-right: 10px; margin-bottom: 10px;}
-#spainTrip {margin-left: 20px;}
-#seniorProm {margin-right: 20px;}
+#spainTrip {margin-right: 10px;}
+#seniorProm {margin-left: 10px;}
