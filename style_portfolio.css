@@ -2,7 +2,7 @@ h1 {color: #01164F;}
 body {background-color: #73FFCE;}
 #margin_to_banner {width:50%;}
 
-#buickSkylark {float:right; margin-left: 10px; margin-bottom: 20px;}
-#chcEthan {float:left; margin-right: 10px; margin-bottom: 10px;}
+#buickSkylark {float:right; margin-left: 10px; margin-bottom: 20px; clear:both;}
+#chcEthan {float:left; margin-right: 10px; margin-bottom: 10px; clear:both;}
 #spainTrip {margin-left: 20px;}
 #seniorProm {margin-right: 20px;}
